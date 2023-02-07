@@ -1,80 +1,80 @@
 [{
   "estudante": {
-    "nome": "Carlin",
-    "ano_nascimento": 2003,
+    "nome": "Arly",
+    "ano_nascimento": 1989,
     "notas": [
       {
-        "nota": "5.2"
+        "nota": 4.49
+      },
+      {
+        "nota": 5.98
+      },
+      {
+        "nota": 5.37
+      },
+      {
+        "nota": 3.33
+      },
+      {
+        "nota": 5.59
       }
     ]
   }
 }, {
   "estudante": {
-    "nome": "Adora",
-    "ano_nascimento": 1990,
+    "nome": "Orrin",
+    "ano_nascimento": 2002,
     "notas": [
       {
-        "nota": "3.4"
+        "nota": 5.13
       },
       {
-        "nota": "5.0"
+        "nota": 5.08
       }
     ]
   }
 }, {
   "estudante": {
-    "nome": "Alfredo",
-    "ano_nascimento": 2006,
+    "nome": "Dyanna",
+    "ano_nascimento": 1992,
     "notas": [
       {
-        "nota": "5.0"
+        "nota": 4.87
       },
       {
-        "nota": "4.6"
+        "nota": 4.97
       },
       {
-        "nota": "5.0"
-      },
-      {
-        "nota": "3.5"
+        "nota": 6.25
       }
     ]
   }
 }, {
   "estudante": {
-    "nome": "Frank",
-    "ano_nascimento": 2005,
+    "nome": "Vitia",
+    "ano_nascimento": 1998,
     "notas": [
       {
-        "nota": "4.8"
+        "nota": 4.25
       },
       {
-        "nota": "4.4"
-      },
-      {
-        "nota": "3.1"
-      },
-      {
-        "nota": "5.0"
+        "nota": 5.79
       }
     ]
   }
 }, {
   "estudante": {
-    "nome": "Rosanne",
-    "ano_nascimento": 1991,
+    "nome": "Calli",
+    "ano_nascimento": 1986,
     "notas": [
       {
-        "nota": "3.9"
+        "nota": 5.53
       },
       {
-        "nota": "6.5"
+        "nota": 4.58
       },
       {
-        "nota": "6.5"
-      },
-      {
-        "nota": "4.3"
+        "nota": 4.84
       }
     ]
   }
