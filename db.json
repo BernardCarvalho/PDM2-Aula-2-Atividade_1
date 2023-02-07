@@ -1,27 +1,67 @@
 {
   "estudantes": [
     {
-      "estudate": {
-        "nome": "Ker",
-        "ano_nascimento": 2010,
+      "estudante": {
+        "nome": "Kai",
+        "ano_nascimento": 1996,
         "notas": [
           {
-            "nota": 7
+            "nota": 2
           },
           {
-            "nota": 7
-          },
-          {
-            "nota": 4
+            "nota": 5
           }
         ]
       }
     },
     {
-      "estudate": {
-        "nome": "Donnie",
-        "ano_nascimento": 1986,
+      "estudante": {
+        "nome": "Idalia",
+        "ano_nascimento": 2001,
         "notas": [
+          {
+            "nota": 7
+          },
+          {
+            "nota": 4
+          },
+          {
+            "nota": 3
+          }
+        ]
+      }
+    },
+    {
+      "estudante": {
+        "nome": "Erda",
+        "ano_nascimento": 1994,
+        "notas": [
+          {
+            "nota": 4
+          },
+          {
+            "nota": 1
+          },
+          {
+            "nota": 5
+          },
+          {
+            "nota": 5
+          }
+        ]
+      }
+    },
+    {
+      "estudante": {
+        "nome": "Chiarra",
+        "ano_nascimento": 2006,
+        "notas": [
+          {
+            "nota": 1
+          },
+          {
+            "nota": 3
+          },
           {
             "nota": 6
           }
@@ -29,43 +69,21 @@
       }
     },
     {
-      "estudate": {
-        "nome": "Heall",
-        "ano_nascimento": 2003,
+      "estudante": {
+        "nome": "Waly",
+        "ano_nascimento": 2005,
         "notas": [
           {
-            "nota": 5
-          }
-        ]
-      }
-    },
-    {
-      "estudate": {
-        "nome": "Maryrose",
-        "ano_nascimento": 1994,
-        "notas": [
+            "nota": 6
+          },
           {
-            "nota": 7
+            "nota": 4
+          },
+          {
+            "nota": 4
           },
           {
             "nota": 7
-          },
-          {
-            "nota": 5
-          },
-          {
-            "nota": 7
-          }
-        ]
-      }
-    },
-    {
-      "estudate": {
-        "nome": "Aliza",
-        "ano_nascimento": 2010,
-        "notas": [
-          {
-            "nota": 5
           }
         ]
       }
