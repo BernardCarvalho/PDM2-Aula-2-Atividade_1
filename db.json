@@ -1,19 +1,74 @@
 {
   "estudantes": [
     {
-      "nome": "Zorana"
+      "estudate": {
+        "nome": "Ker",
+        "ano_nascimento": 2010,
+        "notas": [
+          {
+            "nota": 7
+          },
+          {
+            "nota": 7
+          },
+          {
+            "nota": 4
+          }
+        ]
+      }
     },
     {
-      "nome": "Rayna"
+      "estudate": {
+        "nome": "Donnie",
+        "ano_nascimento": 1986,
+        "notas": [
+          {
+            "nota": 6
+          }
+        ]
+      }
     },
     {
-      "nome": "Nico"
+      "estudate": {
+        "nome": "Heall",
+        "ano_nascimento": 2003,
+        "notas": [
+          {
+            "nota": 5
+          }
+        ]
+      }
     },
     {
-      "nome": "Farris"
+      "estudate": {
+        "nome": "Maryrose",
+        "ano_nascimento": 1994,
+        "notas": [
+          {
+            "nota": 7
+          },
+          {
+            "nota": 7
+          },
+          {
+            "nota": 5
+          },
+          {
+            "nota": 7
+          }
+        ]
+      }
     },
     {
-      "nome": "Freeman"
+      "estudate": {
+        "nome": "Aliza",
+        "ano_nascimento": 2010,
+        "notas": [
+          {
+            "nota": 5
+          }
+        ]
+      }
     }
   ]
 }
