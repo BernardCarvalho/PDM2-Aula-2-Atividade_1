@@ -1,1 +1,19 @@
-{"estudantes":[{},{},{},{},{}]}
+{
+  "estudantes": [
+    {
+      "nome": "Zorana"
+    },
+    {
+      "nome": "Rayna"
+    },
+    {
+      "nome": "Nico"
+    },
+    {
+      "nome": "Farris"
+    },
+    {
+      "nome": "Freeman"
+    }
+  ]
+}
