@@ -1,0 +1,81 @@
+[{
+  "estudante": {
+    "nome": "Carlin",
+    "ano_nascimento": 2003,
+    "notas": [
+      {
+        "nota": "5.2"
+      }
+    ]
+  }
+}, {
+  "estudante": {
+    "nome": "Adora",
+    "ano_nascimento": 1990,
+    "notas": [
+      {
+        "nota": "3.4"
+      },
+      {
+        "nota": "5.0"
+      }
+    ]
+  }
+}, {
+  "estudante": {
+    "nome": "Alfredo",
+    "ano_nascimento": 2006,
+    "notas": [
+      {
+        "nota": "5.0"
+      },
+      {
+        "nota": "4.6"
+      },
+      {
+        "nota": "5.0"
+      },
+      {
+        "nota": "3.5"
+      }
+    ]
+  }
+}, {
+  "estudante": {
+    "nome": "Frank",
+    "ano_nascimento": 2005,
+    "notas": [
+      {
+        "nota": "4.8"
+      },
+      {
+        "nota": "4.4"
+      },
+      {
+        "nota": "3.1"
+      },
+      {
+        "nota": "5.0"
+      }
+    ]
+  }
+}, {
+  "estudante": {
+    "nome": "Rosanne",
+    "ano_nascimento": 1991,
+    "notas": [
+      {
+        "nota": "3.9"
+      },
+      {
+        "nota": "6.5"
+      },
+      {
+        "nota": "6.5"
+      },
+      {
+        "nota": "4.3"
+      }
+    ]
+  }
+}]
