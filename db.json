@@ -1,102 +1,60 @@
 {
   "estudantes": [{
-  "nome": "Hayes",
+  "nome": "Ingemar",
+  "ano_nascimento": 2000,
+  "notas": [
+    {
+      "valor": 8
+    },
+    {
+      "valor": 2
+    },
+    {
+      "valor": 4
+    },
+    {
+      "valor": 4
+    }
+  ]
+}, {
+  "nome": "Randi",
+  "ano_nascimento": 1988,
+  "notas": [
+    {
+      "valor": 8
+    },
+    {
+      "valor": 5
+    }
+  ]
+}, {
+  "nome": "Shep",
+  "ano_nascimento": 1985,
+  "notas": [
+    {
+      "valor": 5
+    },
+    {
+      "valor": 6
+    }
+  ]
+}, {
+  "nome": "Abner",
+  "ano_nascimento": 2000,
+  "notas": [
+    {
+      "valor": 7
+    },
+    {
+      "valor": 6
+    }
+  ]
+}, {
+  "nome": "Gerhardine",
   "ano_nascimento": 2004,
   "notas": [
     {
-      "valor": 4
-    },
-    {
-      "valor": 5
-    },
-    {
-      "valor": 7
-    },
-    {
-      "valor": 8
-    },
-    {
-      "valor": 8
-    }
-  ]
-}, {
-  "nome": "Bearnard",
-  "ano_nascimento": 2008,
-  "notas": [
-    {
       "valor": 6
-    },
-    {
-      "valor": 11
-    },
-    {
-      "valor": 8
-    },
-    {
-      "valor": 7
-    },
-    {
-      "valor": 7
-    }
-  ]
-}, {
-  "nome": "Karisa",
-  "ano_nascimento": 2008,
-  "notas": [
-    {
-      "valor": 7
-    },
-    {
-      "valor": 7
-    },
-    {
-      "valor": 5
-    },
-    {
-      "valor": 4
-    },
-    {
-      "valor": 5
-    }
-  ]
-}, {
-  "nome": "Edsel",
-  "ano_nascimento": 1998,
-  "notas": [
-    {
-      "valor": 4
-    },
-    {
-      "valor": 6
-    },
-    {
-      "valor": 3
-    },
-    {
-      "valor": 4
-    },
-    {
-      "valor": 8
-    }
-  ]
-}, {
-  "nome": "Rebe",
-  "ano_nascimento": 1999,
-  "notas": [
-    {
-      "valor": 8
-    },
-    {
-      "valor": 8
-    },
-    {
-      "valor": 9
-    },
-    {
-      "valor": 7
-    },
-    {
-      "valor": 3
     }
   ]
 }]
