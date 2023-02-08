@@ -1,74 +1,33 @@
-[
+{
+  "estudantes":[
   {
-    "nome": "Angie",
-    "ano_nascimento": 1986,
-    "notas": [
-      {
-        "valor": 3
-      },
-      {
-        "valor": 0
-      },
-      {
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "nome": "Syman",
-    "ano_nascimento": 1998,
-    "notas": [
-      {
-        "valor": 4
-      },
-      {
-        "valor": 7
-      },
-      {
-        "valor": 8
-      },
-      {
-        "valor": 8
-      },
-      {
-        "valor": 3
-      }
-    ]
-  },
-  {
-    "nome": "Alidia",
-    "ano_nascimento": 2011,
-    "notas": [
-      {
-        "valor": 5
-      }
-    ]
-  },
-  {
-    "nome": "Veronika",
-    "ano_nascimento": 2007,
-    "notas": [
-      {
-        "valor": 4
-      },
-      {
-        "valor": 7
-      },
-      {
-        "valor": 8
-      }
-    ]
-  },
-  {
-    "nome": "Norry",
-    "ano_nascimento": 1988,
-    "notas": [
-      {
-        "valor": 6
-      },
-      {
-        "valor": 6
-      }
-    ]
-  }
-]
+
+	"nome":"Ana", 
+
+	"ano_nascimento": 1984, 
+
+	"notas":[
+
+		{"valor": 7},
+      	{"valor": 7},
+      	{"valor": 7}
+
+      ]
+	}, 
+	{
+
+	"nome":"Ana", 
+
+	"ano_nascimento": 1984, 
+
+	"notas":[
+
+      {"valor": 7},
+      {"valor": 7},
+      {"valor": 7}
+
+      ]
+
+	}
+	]
+}
