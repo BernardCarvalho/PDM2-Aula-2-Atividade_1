@@ -1,92 +1,68 @@
-{
-  "estudantes": [
+[{
+  "nome": "Angie",
+  "ano_nascimento": 1986,
+  "notas": [
     {
-      "estudante": {
-        "nome": "Kai",
-        "ano_nascimento": 1996,
-        "notas": [
-          {
-            "nota": 2
-          },
-          {
-            "nota": 5
-          }
-        ]
-      }
+      "valor": 3
     },
     {
-      "estudante": {
-        "nome": "Idalia",
-        "ano_nascimento": 2001,
-        "notas": [
-          {
-            "nota": 7
-          },
-          {
-            "nota": 4
-          },
-          {
-            "nota": 3
-          }
-        ]
-      }
+      "valor": -2
     },
     {
-      "estudante": {
-        "nome": "Erda",
-        "ano_nascimento": 1994,
-        "notas": [
-          {
-            "nota": 4
-          },
-          {
-            "nota": 1
-          },
-          {
-            "nota": 5
-          },
-          {
-            "nota": 5
-          }
-        ]
-      }
-    },
-    {
-      "estudante": {
-        "nome": "Chiarra",
-        "ano_nascimento": 2006,
-        "notas": [
-          {
-            "nota": 1
-          },
-          {
-            "nota": 3
-          },
-          {
-            "nota": 6
-          }
-        ]
-      }
-    },
-    {
-      "estudante": {
-        "nome": "Waly",
-        "ano_nascimento": 2005,
-        "notas": [
-          {
-            "nota": 6
-          },
-          {
-            "nota": 4
-          },
-          {
-            "nota": 4
-          },
-          {
-            "nota": 7
-          }
-        ]
-      }
+      "valor": 9
     }
   ]
-}
+}, {
+  "nome": "Syman",
+  "ano_nascimento": 1998,
+  "notas": [
+    {
+      "valor": 4
+    },
+    {
+      "valor": 7
+    },
+    {
+      "valor": 8
+    },
+    {
+      "valor": 8
+    },
+    {
+      "valor": 3
+    }
+  ]
+}, {
+  "nome": "Alidia",
+  "ano_nascimento": 2011,
+  "notas": [
+    {
+      "valor": 5
+    }
+  ]
+}, {
+  "nome": "Veronika",
+  "ano_nascimento": 2007,
+  "notas": [
+    {
+      "valor": 4
+    },
+    {
+      "valor": 7
+    },
+    {
+      "valor": 8
+    }
+  ]
+}, {
+  "nome": "Norry",
+  "ano_nascimento": 1988,
+  "notas": [
+    {
+      "valor": 6
+    },
+    {
+      "valor": 6
+    }
+  ]
+}]
