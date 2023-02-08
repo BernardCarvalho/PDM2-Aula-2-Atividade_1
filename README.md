@@ -19,3 +19,8 @@ idade,
 média,
 situação.
 Use como referência média > 6 para saber a situação de aprovado ou reprovado.
+
+
+Exemplo funcionando:![image](https://user-images.githubusercontent.com/99513042/217586544-362c7553-eaa2-4d8f-a66a-ade0ff8a3e29.png)
+![image](https://user-images.githubusercontent.com/99513042/217586649-0d254668-81f1-4eab-9bd0-7570fd535dfc.png)
+
