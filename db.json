@@ -1,49 +1,103 @@
 {
-  "estudantes": [
+  "estudantes": [{
+  "nome": "Hayes",
+  "ano_nascimento": 2004,
+  "notas": [
     {
-      "nome" : "Ana",
-      "ano_nascimento" : 1984,
-      "notas" : [
-        {
-          "valor" : 7
-        },
-        {
-          "valor" : 7
-        },
-        {
-          "valor" : 7
-        }
-      ]
+      "valor": 4
     },
     {
-      "nome" : "Ana",
-      "ano_nascimento" : 1984,
-      "notas" : [
-        {
-          "valor" : 7
-        },
-        {
-          "valor" : 7
-        },
-        {
-          "valor" : 7
-        }
-      ]
+      "valor": 5
     },
     {
-      "nome" : "Ana",
-      "ano_nascimento" : 1984,
-      "notas" : [
-        {
-          "valor" : 7
-        },
-        {
-          "valor" : 7
-        },
-        {
-          "valor" : 7
-        }
-      ]
+      "valor": 7
+    },
+    {
+      "valor": 8
+    },
+    {
+      "valor": 8
     }
   ]
+}, {
+  "nome": "Bearnard",
+  "ano_nascimento": 2008,
+  "notas": [
+    {
+      "valor": 6
+    },
+    {
+      "valor": 11
+    },
+    {
+      "valor": 8
+    },
+    {
+      "valor": 7
+    },
+    {
+      "valor": 7
+    }
+  ]
+}, {
+  "nome": "Karisa",
+  "ano_nascimento": 2008,
+  "notas": [
+    {
+      "valor": 7
+    },
+    {
+      "valor": 7
+    },
+    {
+      "valor": 5
+    },
+    {
+      "valor": 4
+    },
+    {
+      "valor": 5
+    }
+  ]
+}, {
+  "nome": "Edsel",
+  "ano_nascimento": 1998,
+  "notas": [
+    {
+      "valor": 4
+    },
+    {
+      "valor": 6
+    },
+    {
+      "valor": 3
+    },
+    {
+      "valor": 4
+    },
+    {
+      "valor": 8
+    }
+  ]
+}, {
+  "nome": "Rebe",
+  "ano_nascimento": 1999,
+  "notas": [
+    {
+      "valor": 8
+    },
+    {
+      "valor": 8
+    },
+    {
+      "valor": 9
+    },
+    {
+      "valor": 7
+    },
+    {
+      "valor": 3
+    }
+  ]
+}]
 }
