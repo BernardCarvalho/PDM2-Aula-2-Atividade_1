@@ -1,32 +1,32 @@
 {
   "estudantes": [
     {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
-      "notas": [
+      "nome" : "Ana",
+      "ano_nascimento" : 1984,
+      "notas" : [
         {
-          "valor": 7
+          "valor" : 7
         },
         {
-          "valor": 7
+          "valor" : 7
         },
         {
-          "valor": 7
+          "valor" : 7
         }
       ]
     },
     {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
-      "notas": [
+      "nome" : "Ana",
+      "ano_nascimento" : 1984,
+      "notas" : [
         {
-          "valor": 7
+          "valor" : 7
         },
         {
-          "valor": 7
+          "valor" : 7
         },
         {
-          "valor": 7
+          "valor" : 7
         }
       ]
     }
